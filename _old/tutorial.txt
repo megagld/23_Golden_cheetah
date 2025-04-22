@@ -1,0 +1,21 @@
+1. Wgrać video do katalogu:
+D:\_Golden Cheetach\_routes
+
+D:\_Golden Cheetach\_routes\95922_1080.mp4
+
+2. uruchomić rouvy - > Routes -> My Colections -> My favourites -> kliknąć na trasę, to ściagnie plik json z geometrią i videopointsami
+
+C:\Users\Praca\AppData\LocalLow\VirtualTraining\ROUVY\data\routes\route_geometry_cache
+
+3. skopiować plik do katalogu pythona
+
+4. uruchomić plik fix_json_files.py
+
+5. uruchom plik make_gpx.py
+
+6. uruchom GC ->Activity -> Import from file -> wskaż plik gpx
+
+7. GC ->Activity -> export -> typ "Golden Cheetah json" nazwa 95922_GC.json
+
+8. Wgrać ww piki do katalogu razem z video:
+D:\_Golden Cheetach\_routes

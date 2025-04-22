@@ -1,0 +1,20 @@
+https://mediacdn.rouvy.com/routes/80027/video/80027_1080.mp4
+http://cdn.virtualtraining.eu/routes/{video}/profile/geometry.json
+
+
+
+1. Wgrać video do katalogu:
+D:\_Golden Cheetach\_routes
+
+D:\_Golden Cheetach\_routes\95922_1080.mp4
+
+2. uruchomić rouvy - > Routes -> My Colections -> My favourites -> kliknąć na trasę, to ściagnie plik json z geometrią i videopointsami
+
+C:\Users\Praca\AppData\LocalLow\VirtualTraining\ROUVY\data\routes\route_geometry_cache
+
+3. uruchomić plik main.py
+
+4. uruchomić GC -> activities -> zaznaczyć "workouts" i "scan for workouts'"
+
+5. uruchomić GC -> activities -> zaznaczyć "devices" "workout" i "media"
+
